@@ -1,4 +1,5 @@
-# 🎮 Atividade: Jogo da Forca
+
+# 🎮 Desafio: Jogo da Forca
 
 ## 🎯 Objetivo
 
